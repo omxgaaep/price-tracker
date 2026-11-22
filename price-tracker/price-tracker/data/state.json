@@ -7,6 +7,18 @@
   "MacBook Air 15\" M5": [
    512,
    16
+  ],
+  "iPhone 16": [
+   128,
+   0
+  ],
+  "iPhone 17": [
+   256,
+   0
+  ],
+  "iPhone 17e": [
+   256,
+   0
   ]
  },
  "current": {
@@ -38,7 +50,7 @@
  },
  "health": {
   "Amazon AU": {
-   "fails": 1,
+   "fails": 2,
    "warned": false
   },
   "Costco": {
@@ -46,7 +58,7 @@
    "warned": false
   },
   "Harvey Norman": {
-   "fails": 1,
+   "fails": 2,
    "warned": false
   },
   "JB Hi-Fi": {
