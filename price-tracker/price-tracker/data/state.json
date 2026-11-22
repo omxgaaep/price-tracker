@@ -23,9 +23,9 @@
  },
  "current": {
   "MacBook Air 13\" M5 16GB/512GB": {
-   "price": 1849.0,
-   "retailer": "JB Hi-Fi",
-   "url": "https://www.jbhifi.com.au/products/apple-macbook-air-13-inch-with-m5-chip-512gb-16gb-midnight"
+   "price": 1799.99,
+   "retailer": "Costco",
+   "url": "https://www.costco.com.au/Computers/Laptops/Apple-MacBooks/Apple-13-Inch-MacBook-Air-M5-Chip-With-10-Core-CPU-And-8-Core-GPU-16GB-512GB-SSD/p/261323"
   },
   "MacBook Air 15\" M5 16GB/512GB": {
    "price": 2199.0,
@@ -40,7 +40,7 @@
   "iPhone 17 256GB": {
    "price": 1497.0,
    "retailer": "Officeworks",
-   "url": "https://www.officeworks.com.au/shop/officeworks/p/iphone-17-256gb-lavender-ip1725lv"
+   "url": "https://www.officeworks.com.au/shop/officeworks/p/iphone-17-256gb-black-ip1725bk"
   },
   "iPhone 17e 256GB": {
    "price": 999.0,
@@ -50,7 +50,7 @@
  },
  "health": {
   "Amazon AU": {
-   "fails": 9,
+   "fails": 10,
    "warned": true
   },
   "Costco": {
@@ -58,7 +58,7 @@
    "warned": false
   },
   "Harvey Norman": {
-   "fails": 9,
+   "fails": 10,
    "warned": true
   },
   "JB Hi-Fi": {
@@ -78,10 +78,10 @@
  "last_summary": "2026-11-22",
  "lows": {
   "MacBook Air 13\" M5 16GB/512GB": {
-   "date": "22 Nov",
-   "price": 1849.0,
-   "retailer": "JB Hi-Fi",
-   "url": "https://www.jbhifi.com.au/products/apple-macbook-air-13-inch-with-m5-chip-512gb-16gb-midnight"
+   "date": "23 Nov",
+   "price": 1799.99,
+   "retailer": "Costco",
+   "url": "https://www.costco.com.au/Computers/Laptops/Apple-MacBooks/Apple-13-Inch-MacBook-Air-M5-Chip-With-10-Core-CPU-And-8-Core-GPU-16GB-512GB-SSD/p/261323"
   },
   "MacBook Air 15\" M5 16GB/512GB": {
    "date": "22 Nov",
