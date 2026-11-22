@@ -1,7 +1,7 @@
 # iPhone & MacBook price tracker (Australia)
 
 Checks JB Hi-Fi, The Good Guys, Harvey Norman, Officeworks, Amazon AU and Costco
-every 2 hours. It emails when an iPhone 16, 17 or 17e (base models only, no Plus/Pro) or a MacBook Air / Pro model
+every 2 hours. It emails when an iPhone 16, 17 or 17e (base models only, no Plus/Pro) or the latest MacBook Air (M5, 13" and 15")
 hits its **lowest price seen so far across all stores**.
 
 - Only the **base spec** of each model is tracked: the smallest storage for iPhones, and the smallest storage + RAM for each MacBook size and chip. Every colour of a model counts as the same model, so the cheapest colour wins. To track every storage option, set `LOWEST_SPEC_ONLY = False` in `config.py`.

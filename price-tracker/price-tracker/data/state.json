@@ -1,9 +1,5 @@
 {
  "base_spec": {
-  "MacBook Air 13\" M2": [
-   256,
-   16
-  ],
   "MacBook Air 13\" M5": [
    512,
    16
@@ -11,50 +7,9 @@
   "MacBook Air 15\" M5": [
    512,
    16
-  ],
-  "MacBook Pro 14\" M5": [
-   1024,
-   16
-  ],
-  "MacBook Pro 14\" M5 Max": [
-   2048,
-   36
-  ],
-  "MacBook Pro 14\" M5 Pro": [
-   1024,
-   24
-  ],
-  "MacBook Pro 14\" M6": [
-   1024,
-   16
-  ],
-  "MacBook Pro 16\" M5 Max": [
-   2048,
-   36
-  ],
-  "MacBook Pro 16\" M5 Pro": [
-   1024,
-   24
-  ],
-  "iPhone 16": [
-   128,
-   0
-  ],
-  "iPhone 17": [
-   256,
-   0
-  ],
-  "iPhone 17e": [
-   256,
-   0
   ]
  },
  "current": {
-  "MacBook Air 13\" M2 16GB/256GB": {
-   "price": 1384.0,
-   "retailer": "The Good Guys",
-   "url": "https://www.thegoodguys.com.au/apple-macbook-air-13-inches-with-m2-chip-16gb-256gb-starlight-mc7w4xa"
-  },
   "MacBook Air 13\" M5 16GB/512GB": {
    "price": 1849.0,
    "retailer": "JB Hi-Fi",
@@ -64,36 +19,6 @@
    "price": 2199.0,
    "retailer": "JB Hi-Fi",
    "url": "https://www.jbhifi.com.au/products/apple-macbook-air-15-inch-with-m5-chip-512gb-16gb-midnight"
-  },
-  "MacBook Pro 14\" M5 16GB/1TB": {
-   "price": 3199.0,
-   "retailer": "The Good Guys",
-   "url": "https://www.thegoodguys.com.au/apple-macbook-pro-14-inches-with-m5-chip-16gb-1tb-space-black-mde14xa"
-  },
-  "MacBook Pro 14\" M5 Max 36GB/2TB": {
-   "price": 6399.0,
-   "retailer": "The Good Guys",
-   "url": "https://www.thegoodguys.com.au/apple-macbook-pro-14-inches-m5-max-chip-18-core-cpu-20-core-gpu-36gb-2tb-silver-mgdq4xa"
-  },
-  "MacBook Pro 14\" M5 Pro 24GB/1TB": {
-   "price": 3999.0,
-   "retailer": "JB Hi-Fi",
-   "url": "https://www.jbhifi.com.au/products/apple-macbook-pro-14-inch-with-m5-pro-chip-1tb-24gb-space-black"
-  },
-  "MacBook Pro 14\" M6 16GB/1TB": {
-   "price": 2999.99,
-   "retailer": "Costco",
-   "url": "https://www.costco.com.au/c/Apple-14-inch-MacBook-Pro-M6-chip-with-12core-CPU-and-12core-GPU-16GB-1TB-SSD/p/290195"
-  },
-  "MacBook Pro 16\" M5 Max 36GB/2TB": {
-   "price": 6997.0,
-   "retailer": "Officeworks",
-   "url": "https://www.officeworks.com.au/shop/officeworks/p/macbook-pro-16-m5-max-18c-cpu-32c-gpu-36gb-2tb-space-black-mbp5ms32b"
-  },
-  "MacBook Pro 16\" M5 Pro 24GB/1TB": {
-   "price": 4797.0,
-   "retailer": "Officeworks",
-   "url": "https://www.officeworks.com.au/shop/officeworks/p/macbook-pro-16-m5-pro-18c-cpu-20c-gpu-24gb-1tb-silver-mbp5ps21s"
   },
   "iPhone 16 128GB": {
    "price": 1347.0,
@@ -140,12 +65,6 @@
  "initialised": true,
  "last_summary": "2026-11-22",
  "lows": {
-  "MacBook Air 13\" M2 16GB/256GB": {
-   "date": "22 Nov",
-   "price": 1384.0,
-   "retailer": "The Good Guys",
-   "url": "https://www.thegoodguys.com.au/apple-macbook-air-13-inches-with-m2-chip-16gb-256gb-starlight-mc7w4xa"
-  },
   "MacBook Air 13\" M5 16GB/512GB": {
    "date": "22 Nov",
    "price": 1849.0,
@@ -157,42 +76,6 @@
    "price": 2199.0,
    "retailer": "JB Hi-Fi",
    "url": "https://www.jbhifi.com.au/products/apple-macbook-air-15-inch-with-m5-chip-512gb-16gb-midnight"
-  },
-  "MacBook Pro 14\" M5 16GB/1TB": {
-   "date": "22 Nov",
-   "price": 3199.0,
-   "retailer": "The Good Guys",
-   "url": "https://www.thegoodguys.com.au/apple-macbook-pro-14-inches-with-m5-chip-16gb-1tb-space-black-mde14xa"
-  },
-  "MacBook Pro 14\" M5 Max 36GB/2TB": {
-   "date": "22 Nov",
-   "price": 6399.0,
-   "retailer": "The Good Guys",
-   "url": "https://www.thegoodguys.com.au/apple-macbook-pro-14-inches-m5-max-chip-18-core-cpu-20-core-gpu-36gb-2tb-silver-mgdq4xa"
-  },
-  "MacBook Pro 14\" M5 Pro 24GB/1TB": {
-   "date": "22 Nov",
-   "price": 3999.0,
-   "retailer": "JB Hi-Fi",
-   "url": "https://www.jbhifi.com.au/products/apple-macbook-pro-14-inch-with-m5-pro-chip-1tb-24gb-space-black"
-  },
-  "MacBook Pro 14\" M6 16GB/1TB": {
-   "date": "22 Nov",
-   "price": 2999.99,
-   "retailer": "Costco",
-   "url": "https://www.costco.com.au/c/Apple-14-inch-MacBook-Pro-M6-chip-with-12core-CPU-and-12core-GPU-16GB-1TB-SSD/p/290195"
-  },
-  "MacBook Pro 16\" M5 Max 36GB/2TB": {
-   "date": "22 Nov",
-   "price": 6997.0,
-   "retailer": "Officeworks",
-   "url": "https://www.officeworks.com.au/shop/officeworks/p/macbook-pro-16-m5-max-18c-cpu-32c-gpu-36gb-2tb-space-black-mbp5ms32b"
-  },
-  "MacBook Pro 16\" M5 Pro 24GB/1TB": {
-   "date": "22 Nov",
-   "price": 4797.0,
-   "retailer": "Officeworks",
-   "url": "https://www.officeworks.com.au/shop/officeworks/p/macbook-pro-16-m5-pro-18c-cpu-20c-gpu-24gb-1tb-silver-mbp5ps21s"
   },
   "iPhone 16 128GB": {
    "date": "22 Nov",
@@ -214,15 +97,8 @@
   }
  },
  "summary_prices": {
-  "MacBook Air 13\" M2 16GB/256GB": 1384.0,
   "MacBook Air 13\" M5 16GB/512GB": 1849.0,
   "MacBook Air 15\" M5 16GB/512GB": 2199.0,
-  "MacBook Pro 14\" M5 16GB/1TB": 3199.0,
-  "MacBook Pro 14\" M5 Max 36GB/2TB": 6399.0,
-  "MacBook Pro 14\" M5 Pro 24GB/1TB": 3999.0,
-  "MacBook Pro 14\" M6 16GB/1TB": 2999.99,
-  "MacBook Pro 16\" M5 Max 36GB/2TB": 6997.0,
-  "MacBook Pro 16\" M5 Pro 24GB/1TB": 4797.0,
   "iPhone 16 128GB": 1347.0,
   "iPhone 17 256GB": 1497.0,
   "iPhone 17e 256GB": 999.0

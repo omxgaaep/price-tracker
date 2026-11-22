@@ -5,7 +5,8 @@
 # Which product families count. Anything else (iPhone Air, iPhone 15,
 # iPads, accessories...) is ignored.
 IPHONE_MODELS = ["16", "17", "17e"]
-MACBOOK_LINES = ["Air", "Pro"]          # MacBook Air + MacBook Pro, any size/chip
+MACBOOK_LINES = ["Air"]                 # MacBook Air only (13" and 15")
+MACBOOK_CHIPS = ["M5"]                  # latest chip only; add "M6" etc. when it comes out
 
 # Only track the base (cheapest) configuration of each model:
 # smallest storage for iPhones, smallest storage + RAM for each MacBook
@@ -14,7 +15,7 @@ MACBOOK_LINES = ["Air", "Pro"]          # MacBook Air + MacBook Pro, any size/ch
 LOWEST_SPEC_ONLY = True
 
 # Searches typed into each store's search box
-SEARCHES = ["iphone 16", "iphone 17", "iphone 17e", "macbook air", "macbook pro"]
+SEARCHES = ["iphone 16", "iphone 17", "iphone 17e", "macbook air"]
 
 # Stores. "search" uses a real (headless) browser to read the store's
 # search results page; {q} is replaced with each search above.
@@ -24,7 +25,7 @@ RETAILERS = [
      "url": "https://www.jbhifi.com.au/collections/mobile-phones/products.json",
      "base": "https://www.jbhifi.com.au/products/"},
     {"name": "JB Hi-Fi", "type": "search",
-     "url": "https://www.jbhifi.com.au/search?query={q}", "only": ["macbook air", "macbook pro"]},
+     "url": "https://www.jbhifi.com.au/search?query={q}", "only": ["macbook air"]},
     {"name": "The Good Guys", "type": "search",
      "url": "https://www.thegoodguys.com.au/search?q={q}"},
     {"name": "Harvey Norman", "type": "search",

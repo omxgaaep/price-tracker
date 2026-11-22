@@ -83,6 +83,8 @@ def model_key(title):
         if not size or not chip:
             return None
         chip_s = "M" + chip.group(1) + (" " + chip.group(2).capitalize() if chip.group(2) else "")
+        if chip_s not in getattr(config, "MACBOOK_CHIPS", [chip_s]):
+            return None
         sizes = _sizes(t)
         storage = [STORAGE[f"{n}{u}"] for n, u in sizes
                    if f"{n}{u}" in STORAGE and (u == "tb" or n >= 256)]
