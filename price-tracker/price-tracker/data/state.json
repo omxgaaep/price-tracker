@@ -50,16 +50,16 @@
  },
  "health": {
   "Amazon AU": {
-   "fails": 5,
-   "warned": false
+   "fails": 6,
+   "warned": true
   },
   "Costco": {
    "fails": 0,
    "warned": false
   },
   "Harvey Norman": {
-   "fails": 5,
-   "warned": false
+   "fails": 6,
+   "warned": true
   },
   "JB Hi-Fi": {
    "fails": 0,
