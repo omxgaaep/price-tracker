@@ -28,14 +28,11 @@ RETAILERS = [
      "url": "https://www.jbhifi.com.au/search?query={q}", "only": ["macbook air"]},
     {"name": "The Good Guys", "type": "search",
      "url": "https://www.thegoodguys.com.au/search?q={q}"},
-    {"name": "Harvey Norman", "type": "search",
-     "url": "https://www.harveynorman.com.au/catalogsearch/result/?q={q}"},
     {"name": "Officeworks", "type": "search",
      "url": "https://www.officeworks.com.au/shop/officeworks/search?q={q}"},
-    {"name": "Amazon AU", "type": "search",
-     "url": "https://www.amazon.com.au/s?k={q}"},
     {"name": "Costco", "type": "search",
      "url": "https://www.costco.com.au/search?text={q}"},
+    # Harvey Norman and Amazon AU were removed: they block automated checks.
     # Apple isn't scraped: its own prices are fixed RRP and only show as
     # "From $X" per model, so it would never be the cheapest anyway.
 ]
