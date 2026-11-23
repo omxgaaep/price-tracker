@@ -40,7 +40,7 @@
   "iPhone 17 256GB": {
    "price": 1497.0,
    "retailer": "Officeworks",
-   "url": "https://www.officeworks.com.au/shop/officeworks/p/iphone-17-256gb-black-ip1725bk"
+   "url": "https://www.officeworks.com.au/shop/officeworks/p/iphone-17-256gb-mist-blue-ip1725mb"
   },
   "iPhone 17e 256GB": {
    "price": 999.0,
@@ -50,7 +50,7 @@
  },
  "health": {
   "Amazon AU": {
-   "fails": 11,
+   "fails": 12,
    "warned": true
   },
   "Costco": {
@@ -58,7 +58,7 @@
    "warned": false
   },
   "Harvey Norman": {
-   "fails": 11,
+   "fails": 12,
    "warned": true
   },
   "JB Hi-Fi": {
