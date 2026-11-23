@@ -50,7 +50,7 @@
  },
  "health": {
   "Amazon AU": {
-   "fails": 10,
+   "fails": 11,
    "warned": true
   },
   "Costco": {
@@ -58,7 +58,7 @@
    "warned": false
   },
   "Harvey Norman": {
-   "fails": 10,
+   "fails": 11,
    "warned": true
   },
   "JB Hi-Fi": {
@@ -75,7 +75,7 @@
   }
  },
  "initialised": true,
- "last_summary": "2026-11-22",
+ "last_summary": "2026-11-23",
  "lows": {
   "MacBook Air 13\" M5 16GB/512GB": {
    "date": "23 Nov",
@@ -109,7 +109,7 @@
   }
  },
  "summary_prices": {
-  "MacBook Air 13\" M5 16GB/512GB": 1849.0,
+  "MacBook Air 13\" M5 16GB/512GB": 1799.99,
   "MacBook Air 15\" M5 16GB/512GB": 2199.0,
   "iPhone 16 128GB": 1347.0,
   "iPhone 17 256GB": 1497.0,
