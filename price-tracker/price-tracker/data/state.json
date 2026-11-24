@@ -23,9 +23,9 @@
  },
  "current": {
   "MacBook Air 13\" M5 16GB/512GB": {
-   "price": 1799.99,
-   "retailer": "Costco",
-   "url": "https://www.costco.com.au/Computers/Laptops/Apple-MacBooks/Apple-13-Inch-MacBook-Air-M5-Chip-With-10-Core-CPU-And-8-Core-GPU-16GB-512GB-SSD/p/261323"
+   "price": 1797.0,
+   "retailer": "JB Hi-Fi",
+   "url": "https://www.jbhifi.com.au/products/apple-macbook-air-13-inch-with-m5-chip-512gb-16gb-midnight"
   },
   "MacBook Air 15\" M5 16GB/512GB": {
    "price": 2199.0,
@@ -40,7 +40,7 @@
   "iPhone 17 256GB": {
    "price": 1497.0,
    "retailer": "Officeworks",
-   "url": "https://www.officeworks.com.au/shop/officeworks/p/iphone-17-256gb-black-ip1725bk"
+   "url": "https://www.officeworks.com.au/shop/officeworks/p/iphone-17-256gb-lavender-ip1725lv"
   },
   "iPhone 17e 256GB": {
    "price": 999.0,
