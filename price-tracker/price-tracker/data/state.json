@@ -43,9 +43,9 @@
    "url": "https://www.officeworks.com.au/shop/officeworks/p/iphone-17-256gb-lavender-ip1725lv"
   },
   "iPhone 17e 256GB": {
-   "price": 999.0,
-   "retailer": "The Good Guys",
-   "url": "https://www.thegoodguys.com.au/apple-iphone-17e-256gb-black-mhrv4xa"
+   "price": 989.99,
+   "retailer": "Costco",
+   "url": "https://www.costco.com.au/Electronics/Mobile-Phones/iPhones/iPhone-17/Apple-iPhone-17e-256GB/p/261274"
   }
  },
  "health": {
@@ -67,7 +67,7 @@
   }
  },
  "initialised": true,
- "last_summary": "2026-11-24",
+ "last_summary": "2026-11-25",
  "lows": {
   "MacBook Air 13\" M5 16GB/512GB": {
    "date": "23 Nov",
@@ -94,17 +94,17 @@
    "url": "https://www.officeworks.com.au/shop/officeworks/p/iphone-17-256gb-lavender-ip1725lv"
   },
   "iPhone 17e 256GB": {
-   "date": "22 Nov",
-   "price": 999.0,
-   "retailer": "The Good Guys",
-   "url": "https://www.thegoodguys.com.au/apple-iphone-17e-256gb-black-mhrv4xa"
+   "date": "25 Nov",
+   "price": 989.99,
+   "retailer": "Costco",
+   "url": "https://www.costco.com.au/Electronics/Mobile-Phones/iPhones/iPhone-17/Apple-iPhone-17e-256GB/p/261274"
   }
  },
  "summary_prices": {
-  "MacBook Air 13\" M5 16GB/512GB": 1799.99,
+  "MacBook Air 13\" M5 16GB/512GB": 1797.0,
   "MacBook Air 15\" M5 16GB/512GB": 2199.0,
   "iPhone 16 128GB": 1347.0,
   "iPhone 17 256GB": 1497.0,
-  "iPhone 17e 256GB": 999.0
+  "iPhone 17e 256GB": 989.99
  }
 }
