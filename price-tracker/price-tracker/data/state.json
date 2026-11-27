@@ -40,7 +40,7 @@
   "iPhone 17 256GB": {
    "price": 1497.0,
    "retailer": "Officeworks",
-   "url": "https://www.officeworks.com.au/shop/officeworks/p/iphone-17-256gb-lavender-ip1725lv"
+   "url": "https://www.officeworks.com.au/shop/officeworks/p/iphone-17-256gb-black-ip1725bk"
   },
   "iPhone 17e 256GB": {
    "price": 999.0,
@@ -67,7 +67,7 @@
   }
  },
  "initialised": true,
- "last_summary": "2026-11-26",
+ "last_summary": "2026-11-27",
  "lows": {
   "MacBook Air 13\" M5 16GB/512GB": {
    "date": "23 Nov",
